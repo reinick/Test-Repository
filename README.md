@@ -20,6 +20,8 @@ Das ist meine erste ï¿½nderung in diesem Repository!
 >>>>>>> 1de8a549368265dc744e28574e768c955a863820
 =======
 
+Viel zu viele Überschneidungen ...
+
 
 
 Da kann ich gleich mal etwas hinzufügen
