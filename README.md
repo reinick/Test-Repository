@@ -32,3 +32,6 @@ Da kann ich gleich mal etwas hinzufügen
 
 nur was
 >>>>>>> 75635590a64d5b0664ca3cd8ee8e95174c69b17c
+
+
+Viel zu viele Errora hier! Schlimme Sache. Fix it!
